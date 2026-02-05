@@ -1,0 +1,36 @@
+# Core Python
+numpy
+pandas
+
+# File & PDF handling
+pdfplumber
+
+# Database
+SQLAlchemy
+neo4j
+
+# Environment variables
+python-dotenv
+
+# NLP
+nltk
+spacy
+emoji
+
+# Embeddings & RAG
+sentence-transformers
+faiss-cpu
+langchain-text-splitters
+
+# ML / Similarity
+scikit-learn
+
+# Graphs & Visualization
+networkx
+matplotlib
+
+# Web / API
+requests
+
+# App UI
+streamlit
